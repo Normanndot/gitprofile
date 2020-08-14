@@ -11,7 +11,7 @@
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://user-images.githubusercontent.com/15030103/90269556-6ded5900-de76-11ea-9a16-2118209672ac.png" />][linkedin]
-<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="norman-d-85759baa"><a class="LI-simple-link" href='https://in.linkedin.com/in/norman-d-85759baa?trk=profile-badge'>Norman D</a></div>
+[<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="norman-d-85759baa"><a class="LI-simple-link" href='https://in.linkedin.com/in/norman-d-85759baa?trk=profile-badge'>Norman D</a></div>]
 
 <br />
 
