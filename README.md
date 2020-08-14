@@ -37,7 +37,7 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-    🎉 MVVM Design Pattern [MVVM](https://github.com/Normanndot/NorMusicAlbum/tree/master/NorMusicAlbum)
+  🎉 MVVM Design Pattern [MVVM](https://github.com/Normanndot/NorMusicAlbum/tree/master/NorMusicAlbum)
 <!--END_SECTION:activity-->
 
 </details>
