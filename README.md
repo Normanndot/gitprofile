@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="LinkedIn" width="300px" src="https://user-images.githubusercontent.com/15030103/90287372-5a9db600-de95-11ea-9215-cef44a8d6132.png" />][linkedin]
+[<img align="left" alt="LinkedIn" width="26px" src="https://user-images.githubusercontent.com/15030103/90269556-6ded5900-de76-11ea-9a16-2118209672ac.png" />][linkedin]
 
 <br />
 
