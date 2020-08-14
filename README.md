@@ -16,6 +16,7 @@
 
 ### Languages and Tools:
 
+[<img align="left" alt="Swift" width="26px" src="https://user-images.githubusercontent.com/15030103/90289068-b9b0fa00-de98-11ea-8d39-3b6e5addb449.png" />][githubrepo]
 [<img align="left" alt="iOS" width="26px" src="https://user-images.githubusercontent.com/15030103/90269842-e8b67400-de76-11ea-8b4f-9d63e049cd62.png" />][githubrepo]
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][githubrepo]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][githubrepo]
