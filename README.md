@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other iOS Engineers world wide.
 - 🥅 2020 Goals: Advanced DS & Algo
-- ⚡ Fun fact: Public speaking = biggest fear. The thought of public speaking still turns my stomach into knots. 🤣
+- ⚡⚡ Fun fact: Public speaking = biggest fear. The thought of public speaking turns my stomach into knots. 🤣
 
 ### Connect with me:
 
