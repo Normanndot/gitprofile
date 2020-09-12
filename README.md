@@ -38,6 +38,9 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
+  🎉 iOS - Design Patterns [Patterns](https://github.com/Normanndot/iOS-design-patterns/tree/master/iOS-design-patterns.playground/Pages)
+  🎉 Swift - Data types - [Advanced](https://github.com/Normanndot/Swift-data-types)
+  🎉 Swift - Public protocols & its usage - [Public In-built Protocols](https://github.com/Normanndot/swift-public-protocols)  
   🎉 MVVM Design Pattern [MVVM](https://github.com/Normanndot/NorMusicAlbum/tree/master/NorMusicAlbum)
 <!--END_SECTION:activity-->
 
