@@ -41,7 +41,7 @@
   1. 🎉 iOS - Design Patterns [Patterns](https://github.com/Normanndot/iOS-design-patterns/tree/master/iOS-design-patterns.playground/Pages)
   2. 🎉 Swift - Data types - [Advanced](https://github.com/Normanndot/Swift-data-types)
   3. 🎉 Swift - Public protocols & its usage - [Public In-built Protocols](https://github.com/Normanndot/swift-public-protocols)  
-  4. 🎉 MVVM Design Pattern [MVVM](https://github.com/Normanndot/NorMusicAlbum/tree/master/NorMusicAlbum)
+  4. 🎉 MVVM-C Design Pattern [MVVM-C](https://github.com/Normanndot/MVVM-C)
 <!--END_SECTION:activity-->
 
 </details>
