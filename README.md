@@ -33,7 +33,7 @@
 <br />
 
 ---
-
+My Recent Git Activities: -
 
   1. 🎉 iOS - Design Patterns [Patterns](https://github.com/Normanndot/iOS-design-patterns/tree/master/iOS-design-patterns.playground/Pages)
   2. 🎉 Swift - Data types - [Advanced](https://github.com/Normanndot/Swift-data-types)
