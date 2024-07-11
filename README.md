@@ -2,11 +2,11 @@
 
 ## I'm a iOS Engineer!
 
-- 🔭 I’m currently working on a [The Times & The Sunday Times][website]!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working on as Apple tvOS Enginner for QVC.
+- 🌱 I’m currently learning Swift 6.
 - 👯 I’m looking to collaborate with other iOS Engineers world wide.
-- 🥅 2020 Goals: Advanced DS & Algo
-- ⚡ Fun fact: Public speaking = biggest fear. The thought of public speaking turns my stomach into knots. 🤣
+- 🥅 2024 Goals: Reduce my waist line.
+- ⚡ Fun fact: I don't use WhatsApp, Insta, Facebook, X.
 
 ### Connect with me:
 
